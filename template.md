@@ -16,4 +16,6 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is 0.0987956.
+I can take the mean of the sample, too! The mean is 0.0338995.
+
+new user name on github
